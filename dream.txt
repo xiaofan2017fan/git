@@ -1,0 +1,2 @@
+后台框架：maven+SpringMvc+mybaits
+数据库：mysql5.5
